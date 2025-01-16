@@ -2823,6 +2823,26 @@
         },
         "data_description": {}
       },
+      "args_aalborg_renoweb_dk": {
+        "title": "Quelle konfigurieren",
+        "description": "Konfiguriere deinen Service Provider. \n\nEnter address which matches yours on https://aalborg.renoweb.dk/Legacy/selvbetjening/mit_affald.aspx, okay to include the '(Ejd.nr. XX, BFE.nr. YY)'\n\nMehr details: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/aalborg_renoweb_dk.md",
+        "data": {
+          "calendar_title": "Kalender Titel",
+          "address": "Addresse"
+        },
+        "data_description": {
+          "calendar_title": "Ein lesbarerer oder benutzerfreundlicherer Name für den Müllkalender. Wenn nichts angegeben wird, wird der Name der Quelle verwendet."
+        }
+      },
+      "reconfigure_aalborg_renoweb_dk": {
+        "title": "Quelle Neu Konfigurieren",
+        "description": "Konfiguriere deinen Service Provider. \n\nEnter address which matches yours on https://aalborg.renoweb.dk/Legacy/selvbetjening/mit_affald.aspx, okay to include the '(Ejd.nr. XX, BFE.nr. YY)'\n\nMehr details: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/aalborg_renoweb_dk.md",
+        "data": {
+          "calendar_title": "Kalender Titel",
+          "address": "Addresse"
+        },
+        "data_description": {}
+      },
       "args_affaldonline_dk": {
         "title": "Quelle konfigurieren",
         "description": "Konfiguriere deinen Service Provider. Mehr details: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/affaldonline_dk.md",

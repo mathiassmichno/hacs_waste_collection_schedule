@@ -2802,6 +2802,26 @@
         },
         "data_description": {}
       },
+      "args_aalborg_renoweb_dk": {
+        "title": "Configurazione Sorgente",
+        "description": "Compila i campi per ottenere le informazioni sul tuo servizio di raccolta. \n\nEnter address which matches yours on https://aalborg.renoweb.dk/Legacy/selvbetjening/mit_affald.aspx, okay to include the '(Ejd.nr. XX, BFE.nr. YY)'\n\nMaggiori informazioni: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/aalborg_renoweb_dk.md.",
+        "data": {
+          "calendar_title": "Nome Calendario",
+          "address": "Address"
+        },
+        "data_description": {
+          "calendar_title": "Puoi cambiare il nome del calendario della raccolta dei rifiuti, altrimenti di default verra' utilizzato il nome del tuo fornitore di servizi."
+        }
+      },
+      "reconfigure_aalborg_renoweb_dk": {
+        "title": "Riconfigurazione Sorgente",
+        "description": "Compila i campi per ottenere le informazioni sul tuo servizio di raccolta. \n\nEnter address which matches yours on https://aalborg.renoweb.dk/Legacy/selvbetjening/mit_affald.aspx, okay to include the '(Ejd.nr. XX, BFE.nr. YY)'\n\nPer maggiori informazioni: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/aalborg_renoweb_dk.md.",
+        "data": {
+          "calendar_title": "Nome Calendario",
+          "address": "Address"
+        },
+        "data_description": {}
+      },
       "args_affaldonline_dk": {
         "title": "Configurazione Sorgente",
         "description": "Compila i campi per ottenere le informazioni sul tuo servizio di raccolta. Maggiori informazioni: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/affaldonline_dk.md.",

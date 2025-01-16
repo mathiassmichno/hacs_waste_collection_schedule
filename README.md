@@ -675,6 +675,7 @@ If your service provider is not listed, feel free to open a [source request issu
 <details>
 <summary>Denmark</summary>
 
+- [Aalborg Kommune - Mit Affald](/doc/source/aalborg_renoweb_dk.md) / aalborg.renoweb.dk/Legacy/selvbetjening/mit_affald.aspx
 - [Affaldonline](/doc/source/affaldonline_dk.md) / affaldonline.dk
 - [Assens Forsyning](/doc/source/affaldonline_dk.md) / assensforsyning.dk
 - [Favrskov Forsyning](/doc/source/affaldonline_dk.md) / favrskovforsyning.dk

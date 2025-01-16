@@ -3889,6 +3889,12 @@
   ],
   "Denmark": [
     {
+      "title": "Aalborg Kommune - Mit Affald",
+      "module": "aalborg_renoweb_dk",
+      "default_params": {},
+      "id": "aalborg_renoweb_dk"
+    },
+    {
       "title": "Affaldonline",
       "module": "affaldonline_dk",
       "default_params": {},
